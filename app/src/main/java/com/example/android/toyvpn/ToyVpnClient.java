@@ -256,6 +256,7 @@ public class ToyVpnClient extends Activity implements View.OnClickListener {
         mSharedSecret = (TextView) findViewById(R.id.secret);
 
         findViewById(R.id.connect).setOnClickListener(this);
+        afasdf
 
 
     }
